@@ -14,6 +14,7 @@
 		26E125D12BE95BFC0023D956 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 26E125CF2BE95BFC0023D956 /* ColeccionDeJuegos.xcdatamodeld */; };
 		26E125D32BE95BFC0023D956 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26E125D22BE95BFC0023D956 /* Assets.xcassets */; };
 		26E125D62BE95BFC0023D956 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26E125D42BE95BFC0023D956 /* LaunchScreen.storyboard */; };
+		26E125DE2BE9637E0023D956 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E125DD2BE9637E0023D956 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		26E125D22BE95BFC0023D956 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26E125D52BE95BFC0023D956 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		26E125D72BE95BFC0023D956 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26E125DD2BE9637E0023D956 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				26E125C82BE95BFC0023D956 /* SceneDelegate.swift */,
 				26E125CA2BE95BFC0023D956 /* ViewController.swift */,
 				26E125CC2BE95BFC0023D956 /* Main.storyboard */,
+				26E125DD2BE9637E0023D956 /* JuegosViewController.swift */,
 				26E125D22BE95BFC0023D956 /* Assets.xcassets */,
 				26E125D42BE95BFC0023D956 /* LaunchScreen.storyboard */,
 				26E125D72BE95BFC0023D956 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26E125DE2BE9637E0023D956 /* JuegosViewController.swift in Sources */,
 				26E125CB2BE95BFC0023D956 /* ViewController.swift in Sources */,
 				26E125C72BE95BFC0023D956 /* AppDelegate.swift in Sources */,
 				26E125C92BE95BFC0023D956 /* SceneDelegate.swift in Sources */,
